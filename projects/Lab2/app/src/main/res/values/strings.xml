@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="you_shall_not_click">You shall not click</string>
+    <string name="hello_user">Hello User!</string>
+</resources>
